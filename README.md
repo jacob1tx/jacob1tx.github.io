@@ -2,4 +2,4 @@
 
 Basic webpage for personal use
 
-[Visit](http://jacob1tx.github.io)
+[Click to visit](http://jacob1tx.github.io)
